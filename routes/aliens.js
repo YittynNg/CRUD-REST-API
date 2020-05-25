@@ -20,7 +20,6 @@ router.get("/",async(req,res)=>{                     //for https://localhost:900
 
 //Create
 router.post("/",async(req,res)=>{                    //for https://localhost:9000/aliens
-    try{
     // Create a document
     const alien = new Alien({  
         name:req.body.name,
