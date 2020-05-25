@@ -1,4 +1,5 @@
 # CRUD-REST-API
+Building a CRUD App using Node, Express, Mongodb and Mongoose.
 CRUD application in Node.js by using MEN stack
 
 REST API that can:
